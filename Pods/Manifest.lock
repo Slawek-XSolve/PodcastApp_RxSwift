@@ -1,0 +1,27 @@
+PODS:
+  - OCMock (3.3.1)
+  - RxCocoa (3.0.0):
+    - RxSwift (~> 3.0)
+  - RxSwift (3.0.0)
+  - SDWebImage (3.8.2):
+    - SDWebImage/Core (= 3.8.2)
+  - SDWebImage/Core (3.8.2)
+  - SwiftyJSON (3.1.1)
+
+DEPENDENCIES:
+  - OCMock (~> 3.3.1)
+  - RxCocoa (~> 3.0.0)
+  - RxSwift (~> 3.0.0)
+  - SDWebImage (~> 3.8.2)
+  - SwiftyJSON (~> 3.1.1)
+
+SPEC CHECKSUMS:
+  OCMock: f3f61e6eaa16038c30caa5798c5e49d3307b6f22
+  RxCocoa: 0a2f3ae381cf16f4021a4cee7a4420f83058a965
+  RxSwift: a930cd662f5b4a7ca9dc3518585dba91dadf497c
+  SDWebImage: 098e97e6176540799c27e804c96653ee0833d13c
+  SwiftyJSON: f0be2e604f83e8405a624e9f891898bf6ed4e019
+
+PODFILE CHECKSUM: 349433a6a4256a37116ca999fcf2998143e46246
+
+COCOAPODS: 1.1.1
